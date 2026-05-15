@@ -1,0 +1,30 @@
+[2026-05-15 16:29:01] ETL Pipeline started
+[2026-05-15 16:29:01] Processing file: transactions_20260515_162837.csv
+[2026-05-15 16:29:01] Removed 0 rows with missing values.
+[2026-05-15 16:29:01] Removed 0 duplicate rows.
+[2026-05-15 16:29:01] Removed rows with non-positive sales. Remaining rows: 100
+[2026-05-15 16:29:01] Removed rows with invalid discount values. Remaining rows: 100
+[2026-05-15 16:29:01] Flagged 11 anomalies based on discount and profit.
+[2026-05-15 16:29:01] Loaded 100 records into MySQL.
+[2026-05-15 16:29:01] Archived file: transactions_20260515_162837.csv
+[2026-05-15 16:29:01] ETL Pipeline finished
+[2026-05-15 16:36:04] ETL Pipeline started
+[2026-05-15 16:36:04] Processing file: transactions_20260515_163603.csv
+[2026-05-15 16:36:04] Removed 0 rows with missing values.
+[2026-05-15 16:36:04] Removed 0 duplicate rows.
+[2026-05-15 16:36:04] Removed rows with non-positive sales. Remaining rows: 100
+[2026-05-15 16:36:04] Removed rows with invalid discount values. Remaining rows: 100
+[2026-05-15 16:36:04] Flagged 9 anomalies based on discount and profit.
+[2026-05-15 16:36:04] Loaded 100 records into MySQL.
+[2026-05-15 16:36:04] Archived file: transactions_20260515_163603.csv
+[2026-05-15 16:36:04] ETL Pipeline finished
+[2026-05-15 16:44:20] ETL Pipeline started
+[2026-05-15 16:44:20] Processing file: transactions_20260515_164419.csv
+[2026-05-15 16:44:20] Removed 0 rows with missing values.
+[2026-05-15 16:44:20] Removed 0 duplicate rows.
+[2026-05-15 16:44:20] Removed rows with non-positive sales. Remaining rows: 100
+[2026-05-15 16:44:20] Removed rows with invalid discount values. Remaining rows: 100
+[2026-05-15 16:44:20] Flagged 15 anomalies based on discount and profit.
+[2026-05-15 16:44:20] Loaded 100 records into MySQL.
+[2026-05-15 16:44:20] Archived file: transactions_20260515_164419.csv
+[2026-05-15 16:44:20] ETL Pipeline finished
