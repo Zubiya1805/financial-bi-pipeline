@@ -1,0 +1,101 @@
+Transaction ID,Region,Segment,Product Category,Product,Sales,Quantity,Discount,Profit,Transaction Date
+518859f6-9cdf-4c59-97c7-359298c4a40a,West,Small Business,Furniture,Sofa,14612.07,19,0.21,2279.96,2025-12-26
+c3669164-ed6c-4ce1-9408-adad63b868a6,North,Freelancer,Furniture,Sofa,19240.53,7,0.24,1606.8,2026-03-09
+9c6b0829-aa8a-4b6e-8d2f-956e0d4baf0e,East,Corporate,Technology,Speaker,15675.18,16,0.34,3072.91,2026-01-17
+c822480c-6f04-420d-993d-9a1fd3b3ed32,South,Freelancer,Technology,Printer,5539.38,11,0.26,1015.66,2025-11-30
+54df455e-c7ec-4d36-93e7-4bd38749b156,South,Small Business,Technology,Router,32023.95,10,0.26,5802.14,2025-11-30
+9954ef61-500e-4026-9809-492c7a62f27b,North,Enterprise,Technology,Smartphone,24478.85,2,0.27,4681.39,2026-03-21
+3057ade9-5faf-495a-a27a-a11c0cadf91e,South,Small Business,Clothing,Shirt,13905.01,13,0.32,1829.09,2025-12-30
+b17a1eaf-3f38-47fa-a028-bc9012f27b96,West,Corporate,Furniture,Chair,44865.87,12,0.44,4366.66,2026-01-07
+bc080e7c-0d2f-437e-831c-dded92666018,South,Enterprise,Technology,Camera,2420.48,12,0.12,381.8,2026-04-24
+db684d24-2442-4b5a-a6f8-909ff66390e1,East,Consumer,Furniture,Sofa,27812.32,4,0.31,3586.23,2026-01-13
+ed64a3ba-0343-48bc-b053-dbb1cf000924,West,Consumer,Office Supplies,Envelopes,48348.93,8,0.07,10306.97,2026-01-27
+64ab1697-8edb-4e45-ace8-4a269fbb2bf1,East,Corporate,Furniture,Desk,26189.11,12,0.15,5003.56,2025-12-26
+1a4e1475-ce5f-464c-8af8-768441d63249,East,Enterprise,Furniture,Filing Cabinet,1750.16,15,0.17,290.02,2025-12-21
+42a4c25f-330a-4fe8-8b54-561e6fedfc33,West,Enterprise,Furniture,Sofa,20188.41,9,0.34,3503.54,2025-12-16
+00f35bc6-379e-4b1d-8b38-d518d551d06a,West,Small Business,Clothing,Shirt,29294.66,12,0.1,4475.32,2026-01-24
+d8bef442-4abc-41cf-96a7-3776cf58dce7,South,Corporate,Technology,Camera,29231.32,5,0.28,2894.76,2026-04-29
+c66da342-27f3-4779-a333-c9a1c91f35ff,North,Corporate,Furniture,Desk,20024.99,19,0.31,4127.04,2026-03-10
+acccb3f6-2138-4e8f-8f0e-fd1791fe5ed5,South,Freelancer,Technology,Monitor,18021.49,12,0.19,2194.24,2026-04-21
+b896f914-9e4a-4328-a4fc-94430bedc950,South,Freelancer,Office Supplies,Paper,11076.3,14,0.09,1732.86,2026-03-10
+efb1d94e-87d4-486c-a6df-bc0de8a1f7a3,North,Consumer,Office Supplies,Paper,16098.23,13,0.2,3011.31,2026-01-25
+ec70e15d-a3d9-49a6-90ea-9929a18198d8,East,Enterprise,Office Supplies,Envelopes,44389.98,18,0.11,5393.37,2026-04-09
+76fbdfc4-08ed-4bbf-b11f-b53c8ce9983b,North,Consumer,Furniture,Desk,903.41,19,0.02,218.7,2026-05-07
+8d4c032f-6546-4a1b-9f8f-c6f667e6b5e0,East,Freelancer,Furniture,Desk,40107.9,19,0.23,4277.42,2026-02-26
+c81a13b0-f872-47ff-9228-fabe25bc2dab,South,Corporate,Furniture,Chair,4696.81,11,0.34,912.89,2025-12-24
+3957f5b4-c3e6-47ce-8b47-d5d01600b3b8,North,Enterprise,Technology,Laptop,43011.29,18,0.22,9486.27,2026-01-17
+dbefcaaf-e9dd-4de2-9480-6a8f1b8477e2,South,Enterprise,Technology,Router,49226.24,7,0.19,5426.43,2026-03-12
+7398f9a2-8118-4c9f-8d3a-68615edf4921,South,Freelancer,Office Supplies,Binders,20263.1,17,0.27,4442.96,2026-01-09
+1bc4fe6d-e434-43b2-9b9e-e82fb70af791,West,Small Business,Furniture,Bookcase,10528.89,8,0.09,2156.56,2026-04-30
+ad20b96a-3da5-4f10-885a-4fb66582d921,North,Small Business,Furniture,Sofa,15371.77,1,0.17,2774.22,2025-12-13
+20a7bf58-6a20-472e-b2e9-14412e9a8925,West,Corporate,Technology,Router,16032.53,14,0.04,3140.56,2026-02-15
+890255f8-24dc-4b8b-b74f-dfab83ff76da,South,Small Business,Furniture,Sofa,26379.02,13,0.22,4893.95,2026-05-09
+0059de02-ffbf-4b88-abb3-f6114963351f,South,Corporate,Office Supplies,Binders,27773.6,17,0.27,3561.95,2025-12-04
+3d5dddbd-ba34-42d3-a59a-2c3688284ee9,East,Small Business,Clothing,Shoes,9886.71,18,0.3,1069.39,2026-01-06
+0ed43ed2-045b-4f5e-9ac9-e8b001fd48a0,North,Enterprise,Technology,Smartphone,49296.16,12,0.26,6348.7,2026-02-10
+9b612019-e1da-4aca-a3d7-47ac4d314d95,North,Consumer,Furniture,Bookcase,18574.34,7,0.15,1916.78,2026-03-13
+89335da6-9222-4ab6-bdba-94c534505b04,West,Small Business,Clothing,Jacket,48524.59,1,0.16,4676.09,2026-02-16
+954645ac-2a2a-43e0-8e0f-aa816393dede,West,Freelancer,Technology,Smartphone,23859.5,13,0.17,5798.67,2025-11-30
+196eec28-e6d6-4951-ac75-ad819676149e,South,Corporate,Furniture,Desk,45717.58,7,0.18,4782.16,2026-01-22
+786588b5-7ce9-40c5-bc2a-a000d8927705,East,Corporate,Clothing,Shirt,42871.79,5,0.31,8578.73,2026-02-08
+03c32a27-fa2d-435e-955a-6cc309c69897,West,Enterprise,Technology,Camera,28992.88,11,0.24,6087.42,2025-11-22
+0fe27bf3-a008-4100-9add-055470d5ad1b,East,Corporate,Technology,Smartphone,48854.64,11,0.1,12750.55,2025-12-22
+5a7479d4-1353-47b6-af16-b19884ee94f1,North,Corporate,Office Supplies,Labels,6228.42,6,0.05,752.97,2026-02-18
+78125ac4-57a6-4053-beb6-1f880b72435a,North,Freelancer,Clothing,Pants,16413.07,13,0.25,2631.82,2026-05-11
+5dfa8049-5843-41b1-b6bc-053f63b59ddb,South,Freelancer,Technology,Printer,38768.9,13,0.24,5372.7,2026-02-08
+fb3ec6a9-5d3c-40c1-97e9-4d899ddda765,North,Small Business,Clothing,Shirt,16819.95,12,0.35,2844.8,2026-05-01
+f99852ea-ba79-4686-8995-e3bd1febe916,East,Enterprise,Office Supplies,Paper,7450.3,8,0.01,1244.26,2026-01-10
+0963ebd8-a8a9-4153-ba83-21d1e34b3db0,South,Small Business,Furniture,Filing Cabinet,24392.48,18,0.08,2779.93,2026-05-06
+2176468b-62b4-45e4-bfbd-5502bea7119b,North,Enterprise,Office Supplies,Labels,9330.97,11,0.24,2076.81,2026-01-20
+d6506d92-bc2e-484d-ad2a-cf80ae15986f,South,Consumer,Clothing,Shoes,16236.63,9,0.27,2326.18,2026-01-09
+8fb845db-56bd-4787-aaa1-cc7f5f6f2815,North,Corporate,Furniture,Bookcase,6925.4,10,0.17,823.34,2026-03-04
+b44a954e-f7a7-4d32-a719-37a6ed49c7f4,North,Consumer,Clothing,Hat,15949.58,18,0.22,3166.48,2026-03-31
+5b568383-bd1a-49e9-98be-691d802a3e04,South,Small Business,Clothing,Shoes,44794.56,10,0.15,8284.49,2025-12-20
+de500c73-d876-4614-9860-76d2d00326d0,South,Consumer,Office Supplies,Labels,48315.31,18,0.06,5561.33,2026-01-23
+ed3e2438-3d36-41fc-af53-560f60549089,East,Enterprise,Office Supplies,Labels,32951.3,9,0.33,6381.44,2025-12-10
+60ac0bf7-b8d9-4c20-9443-75c99fdc60f8,East,Corporate,Technology,Headphones,11402.23,17,0.51,1311.66,2026-04-21
+c036f1fe-7ec6-438d-97db-f60421d55c2b,East,Enterprise,Clothing,Jacket,12895.54,7,0.1,1183.6,2026-02-05
+bb13d930-3ccd-4b12-833a-4256b9a9b2e3,East,Small Business,Clothing,Pants,24170.32,19,0.11,2375.25,2025-12-02
+4c0dbc9b-4d5a-44d4-b844-862c1be11b69,West,Consumer,Office Supplies,Paper,27833.11,16,0.33,2254.74,2026-04-27
+2d07f40e-adb9-41e4-bdf0-eaa2145a7480,South,Freelancer,Furniture,Sofa,37761.95,2,0.33,3791.55,2026-04-02
+2c91d02b-a02d-4add-8ebd-067b206e5c33,East,Small Business,Clothing,Pants,40896.09,5,0.23,7378.97,2026-04-22
+9d842d49-7739-4dd1-ae45-8e6eeb00ac9d,South,Small Business,Technology,Router,48611.22,7,0.14,4189.87,2025-12-20
+240add61-f1ad-4267-8051-6d7012d8d06d,North,Consumer,Technology,Smartphone,46900.91,10,0.13,10840.86,2025-11-25
+1da4e02d-e627-4b45-b256-cb162698aa71,West,Corporate,Technology,Printer,15350.31,14,0.07,2686.61,2025-12-21
+2a6fc89a-bc7e-4ce3-951c-c5e6d245e019,North,Corporate,Technology,Router,32302.48,3,0.1,6950.41,2026-05-16
+607b255b-9d87-418e-af21-b59b0b459352,West,Freelancer,Technology,Tablet,20680.8,4,0.18,2761.97,2026-05-12
+f56816a1-b6b5-4ed6-bb97-b4b697b1099c,East,Consumer,Furniture,Bookcase,39634.69,1,0.33,7103.52,2026-03-03
+323d73f2-74c4-417c-bd05-f887c3a03c40,East,Consumer,Office Supplies,Labels,16172.75,6,0.02,1890.89,2026-02-03
+63028888-0c8e-4948-ad5f-63f897d7318e,East,Freelancer,Furniture,Bookcase,1460.21,16,0.28,278.25,2026-03-23
+f921a9ef-555c-432d-8ac3-7b0e754e5f02,South,Enterprise,Clothing,Shirt,33233.15,8,0.1,8038.71,2025-12-03
+2e130317-a7c8-4257-8807-fd1d1edf4239,East,Small Business,Furniture,Filing Cabinet,42531.22,1,0.05,5648.0,2026-03-14
+228644fc-fffa-4183-baf4-9dc5d7b865ae,East,Corporate,Furniture,Filing Cabinet,23791.77,2,0.03,4607.84,2025-11-24
+83d2e7b4-e3b4-40a6-82a4-15ddd2646ff7,North,Consumer,Office Supplies,Labels,4516.52,6,0.13,1076.72,2025-11-18
+fbbac9d3-f9e1-4834-8dd0-1c4ec9d86ad2,East,Small Business,Furniture,Bookcase,13898.9,7,0.12,2325.21,2026-05-09
+e223d3e9-18d3-43ac-a372-7c3d4041d535,North,Corporate,Furniture,Filing Cabinet,40072.57,11,0.14,8333.0,2026-04-22
+a4c8359a-a1e7-4f2f-b825-fe8418aab730,West,Small Business,Technology,Smartwatch,6268.76,12,0.34,1228.95,2025-11-19
+9c176f8c-971e-425f-99ce-cef8a6f2000b,South,Corporate,Furniture,Desk,11643.13,18,0.32,2176.52,2025-12-20
+eee82b06-c4d9-4829-a3df-99554461026b,North,Enterprise,Clothing,Shirt,18821.34,10,0.03,5373.05,2025-11-25
+423ee4b0-0797-41e4-b604-6e69db8a18ff,North,Freelancer,Clothing,Shirt,12048.68,13,0.01,1959.79,2025-11-20
+3527b0f3-e097-4a76-8b37-ca2242898aba,North,Consumer,Office Supplies,Envelopes,16524.16,17,0.15,3799.14,2025-12-27
+1279d472-90d8-48fd-8f59-3c879598815c,North,Enterprise,Furniture,Filing Cabinet,1210.33,14,0.34,180.58,2026-02-28
+0cda3019-2fbc-4bfe-b97e-f6c2906b8edf,South,Enterprise,Clothing,Shirt,29222.18,11,0.14,6991.68,2026-04-26
+e7e908ee-b33c-4df5-9572-6f45e6be9a1b,West,Freelancer,Clothing,Jacket,21274.92,8,0.1,3102.73,2025-11-23
+e0c34e11-2f3c-4eda-82f8-ca27ff6dd452,West,Enterprise,Office Supplies,Labels,7306.66,3,0.06,1946.04,2026-03-16
+ee262661-6290-4f0f-8c84-f1d8ea4aad31,West,Enterprise,Clothing,Hat,25706.05,14,0.03,7409.49,2025-12-12
+2cfec4d1-fd77-4df4-b34d-a46d94cf452b,West,Consumer,Office Supplies,Envelopes,13560.34,18,0.27,1328.86,2025-11-19
+8a93373b-d03d-4392-9251-45e1712aed00,North,Consumer,Clothing,Shoes,34309.93,9,0.48,3596.71,2026-02-16
+32e5eb7a-18e6-423a-af2e-5d96417fbe1e,North,Small Business,Furniture,Sofa,40183.61,7,0.12,7198.61,2025-12-08
+9c2a2517-4cf0-4c09-96fc-39cc95611902,West,Enterprise,Clothing,Pants,42677.53,13,0.14,7267.75,2025-11-18
+6d74e603-095b-4201-ac56-30909efa7d0e,West,Enterprise,Office Supplies,Paper,47407.66,14,0.23,10091.65,2026-03-12
+b9f2d241-3f6c-4d6e-89c4-81961a2d42ab,North,Corporate,Office Supplies,Pens,49860.99,11,0.14,10491.87,2026-04-07
+b44496b9-81e5-4bc9-8fdd-50cdf2c8e6b2,South,Enterprise,Office Supplies,Labels,47584.94,12,0.06,10757.62,2026-05-05
+2fd9a9af-1723-4f1e-a10c-bfaa6af17b03,South,Small Business,Office Supplies,Pens,29948.19,13,0.24,6743.63,2026-01-04
+1f15477c-ac8d-45cd-91b8-00dc1478f544,North,Consumer,Furniture,Sofa,33636.39,9,0.17,8402.0,2025-12-21
+dfbe78d8-51dc-4c6e-8f60-6e0cac0c0373,West,Freelancer,Clothing,Shirt,33252.6,7,0.23,3758.4,2026-04-21
+f475eaf7-8e6f-4ca5-9f56-bd187ff43fa5,North,Enterprise,Technology,Headphones,48606.24,13,0.34,5838.67,2026-03-27
+3f54d877-f4b4-4d6d-9837-fe392d7805d3,North,Consumer,Office Supplies,Pens,4858.78,2,0.06,963.25,2026-02-26
+709ea764-6b8c-4df8-bf3f-cad7826a607e,West,Freelancer,Technology,Router,35109.95,19,0.28,3907.25,2025-12-11
+7a614412-91dd-4e39-8547-3079f4648d4a,West,Corporate,Office Supplies,Labels,49549.36,3,0.24,6428.11,2026-01-05
+be194245-53a8-4047-8e51-acf19bc2de17,West,Corporate,Clothing,Jacket,39389.92,3,0.08,8519.77,2026-03-21
+9b9ca546-6829-4751-92e4-a5b393b46823,East,Freelancer,Technology,Headphones,23201.51,9,0.02,6593.03,2025-11-23

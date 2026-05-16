@@ -4,6 +4,7 @@ import os
 import random
 from faker import Faker
 from datetime import datetime, date
+from datetime import timedelta
 
 regions = ['North', 'South', 'East', 'West']
 segments = ['Consumer' , 'Corporate' , 'Small Business','Freelancer','Enterprise']
@@ -30,9 +31,9 @@ def generate_transaction():
     
     profit = sales*(1-discount)*np.random.uniform(0.1, 0.3)
     transaction_id = fake.uuid4()
-    transaction_date = date.today()
-    return {
-            'Transaction ID': transaction_id,
+    days_back = random.randint(0, 180)
+    transaction_date = date.today() - timedelta(days=days_back)
+    return {'Transaction ID': transaction_id,
             'Region': region,
             'Segment' : segment,
             'Product Category': product_category,

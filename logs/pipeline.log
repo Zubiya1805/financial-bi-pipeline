@@ -28,3 +28,66 @@
 [2026-05-15 16:44:20] Loaded 100 records into MySQL.
 [2026-05-15 16:44:20] Archived file: transactions_20260515_164419.csv
 [2026-05-15 16:44:20] ETL Pipeline finished
+[2026-05-16 18:33:50] ETL Pipeline started
+[2026-05-16 18:33:50] Processing file: transactions_20260516_183349.csv
+[2026-05-16 18:33:50] Removed 0 rows with missing values.
+[2026-05-16 18:33:50] Removed 0 duplicate rows.
+[2026-05-16 18:33:50] Removed rows with non-positive sales. Remaining rows: 100
+[2026-05-16 18:33:50] Removed rows with invalid discount values. Remaining rows: 100
+[2026-05-16 18:33:50] Flagged 13 anomalies based on discount and profit.
+[2026-05-16 18:33:50] Loaded 100 records into MySQL.
+[2026-05-16 18:33:50] Archived file: transactions_20260516_183349.csv
+[2026-05-16 18:33:50] ETL Pipeline finished
+[2026-05-16 18:33:59] ETL Pipeline started
+[2026-05-16 18:33:59] Processing file: transactions_20260516_183358.csv
+[2026-05-16 18:33:59] Removed 0 rows with missing values.
+[2026-05-16 18:33:59] Removed 0 duplicate rows.
+[2026-05-16 18:33:59] Removed rows with non-positive sales. Remaining rows: 100
+[2026-05-16 18:33:59] Removed rows with invalid discount values. Remaining rows: 100
+[2026-05-16 18:33:59] Flagged 13 anomalies based on discount and profit.
+[2026-05-16 18:33:59] Loaded 100 records into MySQL.
+[2026-05-16 18:33:59] Archived file: transactions_20260516_183358.csv
+[2026-05-16 18:33:59] ETL Pipeline finished
+[2026-05-16 18:34:04] ETL Pipeline started
+[2026-05-16 18:34:04] Processing file: transactions_20260516_183404.csv
+[2026-05-16 18:34:04] Removed 0 rows with missing values.
+[2026-05-16 18:34:04] Removed 0 duplicate rows.
+[2026-05-16 18:34:04] Removed rows with non-positive sales. Remaining rows: 100
+[2026-05-16 18:34:04] Removed rows with invalid discount values. Remaining rows: 100
+[2026-05-16 18:34:04] Flagged 8 anomalies based on discount and profit.
+[2026-05-16 18:34:05] Loaded 100 records into MySQL.
+[2026-05-16 18:34:05] Archived file: transactions_20260516_183404.csv
+[2026-05-16 18:34:05] ETL Pipeline finished
+[2026-05-16 18:34:10] ETL Pipeline started
+[2026-05-16 18:34:10] Processing file: transactions_20260516_183409.csv
+[2026-05-16 18:34:10] Removed 0 rows with missing values.
+[2026-05-16 18:34:10] Removed 0 duplicate rows.
+[2026-05-16 18:34:10] Removed rows with non-positive sales. Remaining rows: 100
+[2026-05-16 18:34:10] Removed rows with invalid discount values. Remaining rows: 100
+[2026-05-16 18:34:10] Flagged 6 anomalies based on discount and profit.
+[2026-05-16 18:34:10] Loaded 100 records into MySQL.
+[2026-05-16 18:34:10] Archived file: transactions_20260516_183409.csv
+[2026-05-16 18:34:10] ETL Pipeline finished
+[2026-05-16 18:34:15] ETL Pipeline started
+[2026-05-16 18:34:15] Processing file: transactions_20260516_183414.csv
+[2026-05-16 18:34:15] Removed 0 rows with missing values.
+[2026-05-16 18:34:15] Removed 0 duplicate rows.
+[2026-05-16 18:34:15] Removed rows with non-positive sales. Remaining rows: 100
+[2026-05-16 18:34:15] Removed rows with invalid discount values. Remaining rows: 100
+[2026-05-16 18:34:15] Flagged 12 anomalies based on discount and profit.
+[2026-05-16 18:34:15] Loaded 100 records into MySQL.
+[2026-05-16 18:34:15] Archived file: transactions_20260516_183414.csv
+[2026-05-16 18:34:15] ETL Pipeline finished
+[2026-05-16 18:34:20] ETL Pipeline started
+[2026-05-16 18:34:20] Processing file: transactions_20260516_183419.csv
+[2026-05-16 18:34:20] Removed 0 rows with missing values.
+[2026-05-16 18:34:20] Removed 0 duplicate rows.
+[2026-05-16 18:34:20] Removed rows with non-positive sales. Remaining rows: 100
+[2026-05-16 18:34:20] Removed rows with invalid discount values. Remaining rows: 100
+[2026-05-16 18:34:20] Flagged 3 anomalies based on discount and profit.
+[2026-05-16 18:34:20] Loaded 100 records into MySQL.
+[2026-05-16 18:34:20] Archived file: transactions_20260516_183419.csv
+[2026-05-16 18:34:20] ETL Pipeline finished
+[2026-05-16 22:32:52] Starting sales forecasting...
+[2026-05-16 22:32:54] Saved 267 forecast rows to MySQL.
+[2026-05-16 22:32:54] Forecasting complete!
