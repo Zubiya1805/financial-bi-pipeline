@@ -1,12 +1,12 @@
 <img src="financial-bi-banner.png" width="100%"/>
-# Financial BI Pipeline 
+#  Financial BI Pipeline 
 
 An automated, end-to-end financial intelligence system built with Python, MySQL, and Power BI. 
 This project simulates real-world business data, processes it through an automated ETL pipeline, 
 detects anomalies, forecasts future revenue using Facebook Prophet, and visualises everything 
 in an interactive Power BI dashboard.
 
-##Tech Stack
+## Tech Stack
 - **Python** — ETL pipeline, data simulation, anomaly detection, forecasting
 - **MySQL** — Star schema database for structured data storage
 - **Power BI** — Interactive dashboard with DAX measures and What-If analysis
