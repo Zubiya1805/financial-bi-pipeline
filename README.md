@@ -1,5 +1,5 @@
 <img src="financial-bi-banner.png" width="100%"/>
-#  Financial BI Pipeline 
+## Financial BI Pipeline 
 
 An automated, end-to-end financial intelligence system built with Python, MySQL, and Power BI. 
 This project simulates real-world business data, processes it through an automated ETL pipeline, 
